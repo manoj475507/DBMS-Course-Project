@@ -1,0 +1,10 @@
+# MySQL Database Configuration
+# NOTE: Replace 'your_mysql_password' with your real MySQL root password
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=Manoj@369
+DB_NAME=ColdStorageDB
+
+# Flask Secret Key for session security and flash alerts
+SECRET_KEY=coldstorage_super_secret_key_presentation3
